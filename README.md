@@ -7,9 +7,6 @@ build/
 
 # Virtual environments
 .env
-.env.sh
-venv/
-ENV/
 
 # IDE-specific files
 .vscode/
