@@ -21,4 +21,3 @@ build/
 .pytest_cache/
 .ruff_cache/
 .coverage
-.mypy_cache/
