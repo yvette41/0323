@@ -15,8 +15,6 @@ build/
 # Compiled Python modules
 *.pyc
 *.pyo
-*.pyd
-
 # Python testing
 .pytest_cache/
 .ruff_cache/
